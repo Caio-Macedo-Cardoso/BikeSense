@@ -1,0 +1,66 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #000;
+	font-family: 'Raleway', sans-serif;
+}
+#divisaoImagemCabecalho{
+	background-color: #000;
+}
+
+#imagemCabecalho{
+	width: 100%;
+	opacity: 0.5;
+}
+
+#barraDeNavegacao{
+	background-color: #000;
+	height: 80px;
+	border: 2px solid goldenrod;
+	border-radius: 7px;
+}
+
+#entradaTexto{
+	background-color: #000;
+	border-radius: 7px;
+	border: 2px solid goldenrod;
+	color: goldenrod;
+	padding: 15px;
+	font-size: 15px;
+}
+#botaoEnviar{
+	background-color: #000;
+	border-radius: 7px;
+	border: 2px solid dodgerblue;
+	color: dodgerblue;
+	padding: 15px;
+	font-size: 15px;
+}
+#botaoEnviar:hover{
+	background-color: dodgerblue;
+	border: 2px solid #000;
+	color: #000;
+	transition: 1s;
+}
+#formularioLogin{
+	padding: 15px;
+	float: right;
+	color: goldenrod;
+}
+#titulo{
+	float: left;
+	color: goldenrod;
+	padding-left: 50px;
+}
+#rodape{
+	color: goldenrod;
+	text-align: center;
+}
+#formularioCadastro{
+	padding: 15px;
+	color: goldenrod;
+}
+#divisaoFormularioCadastro{
+	color: goldenrod;
+	padding: 25px;
+}
